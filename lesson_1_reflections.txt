@@ -1,0 +1,17 @@
+The FC command automatically displays the differences int he two files.Which is very easy to detect the errors when changing the fi
+le content.The bug was easier to identify since we need not skim through the entire contents of the files and only the mismatched lines.It is a much  useful method , which I was not aware of before.In fact, I used to employ online difference checkers to do this task.
+
+  I do believe that version control can make me an efficient programmer.I don't have to rebuild anything from scratch and alternative ways can be explored from a particular point.So if the model crashes, I will have a stable backup thus salvaging a chunk of my work.
+
+
+  The manual commit is purely based on user decision, but we may  forget it sometimes,Th automatic commit is goos for use, but may not cater to user needs.It can have too much information.
+ 
+ GIT is specifically for code, and there will be a lot of iles which are interrelated in programs.However, rich text editors are probably for independent text files and hence they have individual commits.
+
+ b0678b161fcf74467ed3a63110557e3d6229cfa6 that is the commit ID.but when I enteres=d it , it did not work.NOw, the log and diff are quite easy to implement .There is no need to check add , delete since its visible in my file.
+
+ Yeah definitely, its very useful when doing major changes that may affect the entire ssytem.I am imagining working on android with GIT.It would be a great experience
+
+
+
+ I wish to use git to build awesome projects, which will hepl me expand my skillset and also learn new things.Literally, all kinds of projects possible.
