@@ -1,0 +1,3 @@
+This is the second lesson.Now I have created a git repository,Basically I am going to do version control of all the files in this directory.As I have given the init git and not comiited the snapshot of all the files in the directory is not created.At present no files have been tracked.
+
+The working directory is the base area to work on.The status is the intermediate between woking directory and ana ctual commit.And the repository contains the saved version of the commit
