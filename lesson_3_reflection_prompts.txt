@@ -9,3 +9,5 @@ clone-copy a project from yur github repository to your local.
 
  The local copies of remote branches can be automatically updated using pull command which is a fetch and merge.This is quite easy to implement.Further more, fast forward merge is simpler compared to the usual one.
  when it comes to collaborating with multiple epole github is very easy to implement..but the modifications hould be done after moving the code to your local git
+ Merging on a separate local brach is to see the conflicts that might occur , if the code actually functions properly .It can be to show others how it works before the actual commit
+ 
