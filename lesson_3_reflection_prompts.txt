@@ -8,3 +8,4 @@ clone-copy a project from yur github repository to your local.
  Branch-branch out a different version of code from your main branch of code(master)
 
  The local copies of remote branches can be automatically updated using pull command which is a fetch and merge.This is quite easy to implement.Further more, fast forward merge is simpler compared to the usual one.
+ when it comes to collaborating with multiple epole github is very easy to implement..but the modifications hould be done after moving the code to your local git
