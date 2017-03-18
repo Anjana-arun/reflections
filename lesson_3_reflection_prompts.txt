@@ -1,1 +1,10 @@
 Hello! I am creating a new reflectiond file in GITHUb
+
+
+There might be changes which I have comitted that I do not widh to make publicly availabe yet.In such cases manual pushes and pulls are better than automatic ones
+
+Git fork-copy a project from git hub to your git hub repository.Nothing is stored in local
+clone-copy a project from yur github repository to your local.
+ Branch-branch out a different version of code from your main branch of code(master)
+
+ The local copies of remote branches can be automatically updated using pull command which is a fetch and merge.This is quite easy to implement.Further more, fast forward merge is simpler compared to the usual one.
